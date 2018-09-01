@@ -1,4 +1,4 @@
 package Stat;
 
-public class AbstractStat {
+public abstract class AbstractStat implements Stat{
 }

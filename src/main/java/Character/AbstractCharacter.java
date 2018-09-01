@@ -1,4 +1,4 @@
-package CharacterTypes;
+package Character;
 
 public abstract class AbstractCharacter implements Character {
 

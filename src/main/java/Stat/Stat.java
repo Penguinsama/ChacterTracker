@@ -1,4 +1,4 @@
 package Stat;
 
-public class Stat {
+public interface Stat {
 }
