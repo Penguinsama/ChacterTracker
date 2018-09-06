@@ -8,5 +8,13 @@
     <artifactId>CharacterTracker</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+
+    </dependencies>
+
+    <build>
+
+    </build>
+
 
 </project>
