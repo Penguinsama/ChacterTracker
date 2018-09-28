@@ -4,5 +4,24 @@ package Common;
  * Created by devin.saverline on 9/6/18.
  */
 public enum WerewolfTribe {
-
+    BLACKFURIES,
+    BONEGNAWERS,
+    CHILDRENOFGAIA,
+    FIANNA,
+    GETOFFENRIS,
+    GLASSWALKERS,
+    REDTALONS,
+    SHADOWLORDS,
+    SILENTSTRIDERS,
+    SILVERFANGS,
+    UKTENA,
+    WENDIGO,
+    HAKKEN,
+    STARGAZERS,
+    BLACKSPIRALDANCERS,
+    BUNYIP,
+    CROATAN,
+    WHITEHOWLERS,
+    SIBERAKH,
+    SINGINGDOGS
 }

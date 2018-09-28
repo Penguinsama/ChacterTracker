@@ -12,5 +12,9 @@ public abstract class AbstractStat {
 
     private String statName;
 
+    AbstractStat(String statName){
+        setStatName(statName);
+    }
+
 
 }
