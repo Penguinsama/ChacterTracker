@@ -1,6 +1,6 @@
 package Character;
 
-public abstract class AbstractCharacter implements Character {
+public abstract class AbstractCharacter {
 
     public String getGameName() {
         return gameName;
@@ -31,4 +31,14 @@ public abstract class AbstractCharacter implements Character {
     }
 
     private String playerName;
+
+    private String systemName;
+
+    public String getSystemName() {
+        return systemName;
+    }
+
+    public void setSystemName(String systemName) {
+        this.systemName = systemName;
+    }
 }

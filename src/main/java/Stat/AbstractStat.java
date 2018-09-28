@@ -1,6 +1,6 @@
 package Stat;
 
-public abstract class AbstractStat implements Stat{
+public abstract class AbstractStat {
 
     public String getStatName() {
         return statName;
